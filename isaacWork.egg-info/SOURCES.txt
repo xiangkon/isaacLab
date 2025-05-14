@@ -1,0 +1,9 @@
+README.md
+setup.py
+isaacWork/__init__.py
+isaacWork.egg-info/PKG-INFO
+isaacWork.egg-info/SOURCES.txt
+isaacWork.egg-info/dependency_links.txt
+isaacWork.egg-info/not-zip-safe
+isaacWork.egg-info/requires.txt
+isaacWork.egg-info/top_level.txt
